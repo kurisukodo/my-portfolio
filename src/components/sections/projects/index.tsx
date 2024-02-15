@@ -6,7 +6,7 @@ import SectionTitle from '@/components/section-title';
 import projects from '@/data/projects.json';
 import { forwardRef } from 'react';
 
-const ProjectsSection = forwardRef<HTMLDivElement>((_, ref) => {
+const ProjectsSection = forwardRef<HTMLDivElement>(function ProjectsSection(_, ref) {
     return (
         <div ref={ref}>
             <Container className="py-16 md:py-28">

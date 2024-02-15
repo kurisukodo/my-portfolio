@@ -6,7 +6,7 @@ import WavesBackground from '@/svg/waves-background';
 import Link from 'next/link';
 import { forwardRef } from 'react';
 
-const ContactSection = forwardRef<HTMLDivElement>((_, ref) => {
+const ContactSection = forwardRef<HTMLDivElement>(function ContactSection(_, ref) {
     return (
         <div
             ref={ref}

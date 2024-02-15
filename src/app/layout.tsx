@@ -3,13 +3,13 @@ import type { Metadata } from 'next';
 import { Roboto, Roboto_Condensed } from 'next/font/google';
 import './globals.css';
 
-export const roboto = Roboto({
+const roboto = Roboto({
     subsets: ['latin'],
     display: 'swap',
     variable: '--font-roboto',
     weight: ['100', '300', '400', '500', '700'],
 });
-export const robotoCondensed = Roboto_Condensed({
+const robotoCondensed = Roboto_Condensed({
     subsets: ['latin'],
     display: 'swap',
     variable: '--font-roboto-condensed',
