@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Tic Tac Toe",
+        "status": "On-going",
+        "thumbnail": "/assets/projects/tic-tac-toe.png",
+        "description": "A simple tic tac toe game.",
+        "technology": ["Next.js", "NestJS", "MongoDB"],
+        "link": "https://tictactoe.kurisukodo.dev/",
+        "repo": [
+            {
+                "type": "github",
+                "popover": "FE",
+                "link": "https://github.com/kurisukodo/tic-tac-toe-fe"
+            },
+            {
+                "type": "github",
+                "popover": "BE",
+                "link": "https://github.com/kurisukodo/tic-tac-toe-be"
+            }
+        ]
+    },
+    {
+        "title": "My Portfolio",
+        "status": "On-going",
+        "thumbnail": "/assets/projects/portfolio.png",
+        "description": "My portfolio site.",
+        "technology": ["Next.js", "TailwindCSS", "Typescript", "Framer Motion"],
+        "link": "",
+        "repo": [
+            {
+                "type": "github",
+                "link": "https://github.com/kurisukodo/my-portfolio",
+                "popover": ""
+            }
+        ]
+    },
+    {
+        "title": "Files Organizer",
+        "status": "Done",
+        "thumbnail": "/assets/projects/folder-organizer.png",
+        "description": "A simple python script to group files by their types into folders.",
+        "technology": ["Python"],
+        "link": "",
+        "repo": [
+            {
+                "type": "github",
+                "link": "https://github.com/kurisukodo/python-filter-organizer",
+                "popover": ""
+            }
+        ]
+    }
+]
