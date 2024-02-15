@@ -28,7 +28,7 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body className={`${roboto.variable} ${robotoCondensed.variable}`}>
-                {/* <SplashScreen /> */}
+                <SplashScreen />
                 {children}
             </body>
         </html>
