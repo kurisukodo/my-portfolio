@@ -24,7 +24,7 @@ const ContactSection = forwardRef<HTMLDivElement>(function ContactSection(_, ref
                             <Link href="https://github.com/kurisukodo" target="_blank">
                                 <GithubIcon className="h-8 w-8 text-white transition-all hover:scale-125 md:h-10 md:w-10" />
                             </Link>
-                            <Link href="https://github.com/kurisukodo" target="_blank">
+                            <Link href="https://www.linkedin.com/in/christophercwk/" target="_blank">
                                 <LinkedinIcon className="h-8 w-8 text-white transition-all hover:scale-125 md:h-10 md:w-10" />
                             </Link>
                             <Link href="https://wa.me/60164139884" target="_blank">

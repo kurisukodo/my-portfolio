@@ -35,6 +35,15 @@
         ]
     },
     {
+        "title": "GTLF",
+        "status": "Done",
+        "thumbnail": "/assets/projects/gtlf.png",
+        "description": "A freelance project to revamp client's slow WordPress website to blazing fast React.",
+        "technology": ["React.js", "SCSS", "Mantine UI", "Zustand", "Supabase"],
+        "link": "https://georgetownlitfest.com/",
+        "repo": []
+    },
+    {
         "title": "Files Organizer",
         "status": "Done",
         "thumbnail": "/assets/projects/folder-organizer.png",

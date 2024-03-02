@@ -1,3 +1,4 @@
+import Badge from '@/components/badge';
 import Container from '@/components/container';
 import { CircleDownIcon } from '@/svg/icons/circle-down';
 import Image from 'next/image';
@@ -19,11 +20,22 @@ export default function AboutSection() {
                     Christopher Chan
                 </div>
                 <div className="text-md mb-8 font-medium uppercase tracking-wider text-gray-600 md:text-2xl">
-                    Full Stack & App Developer
+                    Full Stack | App Developer
                 </div>
                 <div className="w-full text-justify text-sm md:text-xl">
-                    Detailed-oriented Front End Developer with 5 years of experience working
-                    extensively with React, Javascript, Typescript, and Tailwind CSS.
+                    I am a passionate developer with 6 years of experience in building and shipping
+                    beautiful, engaging, performant, production-ready websites and applications.
+                    {/* <br />
+                    <br /> */}
+                    {/* Interested to know what I can do? Check out my{' '} */}
+                    {/* <div className="inline cursor-pointer font-bold text-black hover:text-[#537188]">
+                        skills
+                    </div>{' '}
+                    or{' '} */}
+                    {/* <div className="inline cursor-pointer font-bold text-black hover:text-[#537188]">
+                        projects
+                    </div>{' '}
+                    section. */}
                 </div>
             </div>
             <div className="relative hidden aspect-square h-[220px] w-[220px] overflow-hidden rounded-full shadow-[-10px_10px_5px_0px_rgba(176,176,176,0.75)] lg:block">
