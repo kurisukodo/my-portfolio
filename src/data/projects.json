@@ -1,7 +1,16 @@
 [
     {
+        "title": "Froscale",
+        "status": "Done",
+        "thumbnail": "/assets/projects/froscale.png",
+        "description": "A website done for my client Froscale.",
+        "technology": ["Next.js", "TailwindCSS", "Typescript", "Stripe"],
+        "link": "https://froscale.com/en",
+        "repo": []
+    },
+    {
         "title": "Tic Tac Toe",
-        "status": "On-going",
+        "status": "Done",
         "thumbnail": "/assets/projects/tic-tac-toe.png",
         "description": "A simple tic tac toe game.",
         "technology": ["Next.js", "NestJS", "MongoDB"],
@@ -21,7 +30,7 @@
     },
     {
         "title": "My Portfolio",
-        "status": "On-going",
+        "status": "Done",
         "thumbnail": "/assets/projects/portfolio.png",
         "description": "My portfolio site.",
         "technology": ["Next.js", "TailwindCSS", "Typescript", "Framer Motion"],
